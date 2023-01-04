@@ -1,70 +1,168 @@
-# Getting Started with Create React App
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+Modify this file to match your project and remove sections that don't apply.
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+OPTIONAL SECTIONS:
+- FAQ
+After you're finished please remove all the comments and instructions!
+-->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="https://github.com/microverseinc/readme-template/blob/master/murple_logo.png?raw=true" alt="logo" width="140"  height="auto" />
+  <br/>
 
-## Available Scripts
+  <h3><b>"Hello world" project app with tow Repo (frontend)</b></h3>
 
-In the project directory, you can run:
+</div>
 
-### `npm start`
+<!-- TABLE OF CONTENTS -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📗 Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-### `npm test`
+<!-- PROJECT DESCRIPTION -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 📖 "Hello world" project app with tow Repo (frontend) <a name="about-project"></a>
 
-### `npm run build`
+> Describe your project in 1 or 2 sentences.
+**"Hello world" project app with tow Repo (frontend)** is a Implement a connection between a Ruby on Rails back-end and React front-end.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠 Built With <a name="built-with"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Tech Stack <a name="tech-stack"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<details>
+  <summary>Client</summary>
+  <ul>
+    REACT
+  </ul>
+</details>
 
-### `npm run eject`
+<!-- GETTING STARTED -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 💻 Getting Started <a name="getting-started"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+In order to run this project you need:
+    nodejs
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Example command:
+```sh
+ node -v
+```
 
-## Learn More
+### Setup
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Clone this repository to your desired folder:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Example commands:
+```sh
+  cd my-folder
+  git clone https://github.com/carlosmuerto/hello-react-front-end
+```
 
-### Code Splitting
+### Install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Install this project with:
 
-### Analyzing the Bundle Size
+Example command:
+```sh
+  cd hello-react-front-end
+  npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Usage
 
-### Making a Progressive Web App
+To run the project, execute the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Example command:
+```sh
+  npm start 
+```
 
-### Advanced Configuration
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- AUTHORS -->
 
-### Deployment
+## 👥 Authors <a name="authors"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+> Mention all of the collaborators of this project.
 
-### `npm run build` fails to minify
+👤 Carlos Vivas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub: [@carlosmuerto](https://github.com/carlosmuerto)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/carlos-vivas-818ab831/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
