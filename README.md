@@ -25,6 +25,11 @@ After you're finished please remove all the comments and instructions!
   <br/>
 
   <h3><b>"Hello world" project app with tow Repo (frontend)</b></h3>
+  <h4>
+   <a href="https://github.com/carlosmuerto/hello-rails-back-end">
+    "Hello world" project app with tow Repe (backend)
+   </a>
+  </h4>
 
 </div>
 
