@@ -21,9 +21,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="https://github.com/microverseinc/readme-template/blob/master/murple_logo.png?raw=true" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>"Hello world" project app with tow Repo (frontend)</b></h3>
   <h4>
    <a href="https://github.com/carlosmuerto/hello-rails-back-end">
