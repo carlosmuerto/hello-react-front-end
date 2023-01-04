@@ -8,7 +8,6 @@ function App() {
   const loadData = async () => {
     const response = await axios.get('http://localhost:3000/');
     setGreeting(response.data.text);
-    console.log(response)
   };
 
   useEffect(() => {
@@ -20,7 +19,7 @@ function App() {
       <header className="App-header">
         <img src="https://github.com/microverseinc/readme-template/blob/master/murple_logo.png?raw=true" className="App-logo" alt="logo" />
         <h2>
-        {greeting}
+          {greeting}
         </h2>
       </header>
     </div>
